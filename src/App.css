@@ -1,0 +1,14 @@
+.logo {
+  border-radius: 50%;
+}
+.user {
+  color: #fbc106;
+}
+
+.app-bar {
+  background: black;
+}
+
+.active {
+  background: grey;
+}
